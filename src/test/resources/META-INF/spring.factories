@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = ridoy.hossain.\
+    afternoon.delight.config.\
+    SqlTestContainersSpringContextCustomizerFactory,ridoy.hossain.afternoon.\
+    delight.config.RedisTestContainersSpringContextCustomizerFactory
